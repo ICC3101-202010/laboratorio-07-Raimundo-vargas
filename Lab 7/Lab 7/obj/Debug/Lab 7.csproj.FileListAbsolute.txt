@@ -1,0 +1,10 @@
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\bin\Debug\Lab 7.exe.config
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\bin\Debug\Lab 7.exe
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\bin\Debug\Lab 7.pdb
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab 7.csprojAssemblyReference.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab_7.Calculadora.resources
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab_7.Properties.Resources.resources
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.GenerateResource.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab 7.exe
+C:\Users\rvarg\Desktop\Lab POO\laboratorio-07-Raimundo-vargas\Lab 7\Lab 7\obj\Debug\Lab 7.pdb
